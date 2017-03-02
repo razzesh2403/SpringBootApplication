@@ -4,6 +4,8 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
+//It is a user class
+
 @Entity
 public class User {
 	@Id
